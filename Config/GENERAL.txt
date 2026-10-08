@@ -1,6 +1,6 @@
 #增加插件
 CONFIG_PACKAGE_luci-app-partexp=y
-
+CONFIG_PACKAGE_luci-app-daede=y
 #删除插件
 CONFIG_PACKAGE_luci-app-attendedsysupgrade=n
 CONFIG_PACKAGE_luci-app-wol=n
